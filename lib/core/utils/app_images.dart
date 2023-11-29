@@ -1,0 +1,35 @@
+class AppImages {
+  static const String add = "assets/add.png";
+  static const String arrowdown2 = "assets/arrowdown2.png";
+  static const String arrowleft = "assets/arrowleft.png";
+  static const String calendar = "assets/calendar.png";
+  static const String callcalling = "assets/callcalling.png";
+  static const String checkboxIcon = "assets/checkboxIcon.png";
+  static const String clock = "assets/clock.png";
+  static const String edit = "assets/edit.png";
+  static const String elementequal = "assets/elementequal.png";
+  static const String ellipse37 = "assets/Ellipse 37.png";
+  static const String emailIcon = "assets/emailIcon.png";
+  static const String googlicon = "assets/googlicon.png";
+  static const String home = "assets/home.png";
+  static const String logo = "assets/logo.png";
+  static const String messages1 = "assets/messages1.png";
+  static const String microphone2 = "assets/microphone2.png";
+  static const String mytasks = "assets/mytasks.png";
+  static const String notification1 = "assets/notification1.png";
+  static const String passicon = "assets/passicon.png";
+  static const String pilatExtendedBold = "assets/PilatExtended-Bold.ttf";
+  static const String profile2user = "assets/profile2user.png";
+  static const String searchnormal1 = "assets/searchnormal1.png";
+  static const String securitycard = "assets/securitycard.png";
+  static const String send = "assets/send.png";
+  static const String setting2 = "assets/setting2.png";
+  static const String startscrenn = "assets/startscrenn.png";
+  static const String temp = "assets/temp.png";
+  static const String usericon = "assets/usericon.png";
+  static const String video = "assets/video.png";
+  static const String eyeslash = "assets/eyeslash.png";
+  static const String setting4 = "assets/setting4.png";
+  static const String addsquare = "assets/addsquare.png";
+  static const String logoutcurve = "assets/logoutcurve.png";
+}
